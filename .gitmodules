@@ -1,0 +1,3 @@
+[submodule "content/themes/ghostscroll"]
+	path = content/themes/ghostscroll
+	url = https://github.com/MagneDavidsen/klish-theme.git
